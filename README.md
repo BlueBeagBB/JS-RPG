@@ -1,0 +1,1 @@
+Este é um jogo de RPG onde os jogadores podem criar e gerenciar seus personagens. O sistema categoriza os níveis de experiência dos personagens em várias classes, como "Ferro", "Bronze", "Prata", e assim por diante, dependendo da quantidade de experiência adquirida.
